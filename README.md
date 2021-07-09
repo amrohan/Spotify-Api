@@ -53,4 +53,4 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 ## Demo 🎧
 
-[![Spotify](https://myspotify-api.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://myspotify-api.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
