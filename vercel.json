@@ -5,7 +5,7 @@
       "destination": "https://amrohann.vercel.app/api/spotify"
     }
   ]
-   "github": {
+   "github": [
       "silent": true
-    }
+    ]
 }
